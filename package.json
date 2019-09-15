@@ -1,7 +1,7 @@
 {
   "name": "@eyelly/print",
-  "version": "1.0.0-beta.pre.0",
-  "description": "a simple function for partial printing on the browser",
+  "version": "1.0.0-beta.pre.1",
+  "description": "A simple function for partial printing on the browser",
   "main": "lib/index.js",
   "module": "es/index.js",
   "types": "types",

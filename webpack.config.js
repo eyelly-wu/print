@@ -5,7 +5,7 @@ module.exports = {
   entry: './src/index.ts',
   output: {
     path: resolve(__dirname, 'dist'),
-    filename: 'print.js',
+    filename: 'index.js',
     library: 'print',
     libraryTarget: 'var'
   },
